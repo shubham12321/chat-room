@@ -1,0 +1,52 @@
+#head{
+    display: flex;
+    height: 80px;
+    border-bottom: 1px  black;
+    background-color: rgb(31, 64, 94);
+    color: white;
+}
+h1{
+    font-family: Comic Sans MS;
+    margin-left: 35px;
+}
+#headbtn{
+    width: 150px;
+    margin-left: 750px;
+    height: 45px; 
+    margin-top: 20px;
+
+}
+#chat-box{
+    
+    height: 400px;
+    margin: 25px;
+}
+.colum{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#input{
+    width:700px;
+    margin-left: 38px;
+    border: 1px solid rgb(70, 102, 145);
+    border-radius: 5px;
+}
+.c1{
+    background-image: url("lo.jpg");
+}
+.c2{
+    background-image: url("back.jpg");
+
+}
+#h{
+    /* background-color: rgb(75, 109, 141); */
+ 
+}
+img{
+    width: 300px;
+}
+#theme{
+    border: 5px solid black;
+    margin-left: 10%;
+}
+
